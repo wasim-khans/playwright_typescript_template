@@ -1,0 +1,21 @@
+{
+  "name": "playwirghttypescriptprojecttemp",
+  "version": "1.0.0",
+  "description": "just a repo for starting a test automation project from scratch",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "playwright": "^1.51.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
